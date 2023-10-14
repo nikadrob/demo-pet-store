@@ -1,0 +1,4 @@
+# Ignore folderi
+backend/.vs/
+backend/backend/obj/
+backend/backend/bin/
