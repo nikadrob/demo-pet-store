@@ -3920,19 +3920,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\snasteski\\.nuget\\packages\\": {}
+    "C:\\Users\\Korisnik\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\MyProjects\\MyFullStack\\demo-pet-store\\backend\\backend\\backend.csproj",
+      "projectUniqueName": "C:\\MyProjects\\FullStack\\demo-pet-store\\backend\\backend\\backend.csproj",
       "projectName": "backend",
-      "projectPath": "C:\\MyProjects\\MyFullStack\\demo-pet-store\\backend\\backend\\backend.csproj",
-      "packagesPath": "C:\\Users\\snasteski\\.nuget\\packages\\",
-      "outputPath": "C:\\MyProjects\\MyFullStack\\demo-pet-store\\backend\\backend\\obj\\",
+      "projectPath": "C:\\MyProjects\\FullStack\\demo-pet-store\\backend\\backend\\backend.csproj",
+      "packagesPath": "C:\\Users\\Korisnik\\.nuget\\packages\\",
+      "outputPath": "C:\\MyProjects\\FullStack\\demo-pet-store\\backend\\backend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\snasteski\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Korisnik\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4000,7 +4000,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
